@@ -1,0 +1,7 @@
+﻿#ifndef __LINEEDITWIDGET_INCLUDE_LINEEDITWIDGET_INC__
+#define __LINEEDITWIDGET_INCLUDE_LINEEDITWIDGET_INC__
+
+// Project lib import
+#include "lineeditwidget.h"
+
+#endif//__LINEEDITWIDGET_INCLUDE_LINEEDITWIDGET_INC__

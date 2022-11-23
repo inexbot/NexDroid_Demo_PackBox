@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/">
+        <file>image/ButtonReturnDown.png</file>
+        <file>image/ButtonReturnNormal.png</file>
+        <file>arrowRight.png</file>
+    </qresource>
+    <qresource prefix="/new/prefix1">
+        <file>arrowRight.png</file>
+        <file>arrowDown.png</file>
+        <file>arrowLeft.png</file>
+    </qresource>
+    <qresource prefix="/new/prefix2"/>
+</RCC>
